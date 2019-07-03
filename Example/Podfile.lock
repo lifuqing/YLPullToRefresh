@@ -1,0 +1,16 @@
+PODS:
+  - YLPullToRefresh (0.1.0)
+
+DEPENDENCIES:
+  - YLPullToRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  YLPullToRefresh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLPullToRefresh: 8871627fffa2244c825b554bada9ffd4b8116aac
+
+PODFILE CHECKSUM: 2e0491cc6b34165d824998ec2dac41e7de18ca08
+
+COCOAPODS: 1.6.0

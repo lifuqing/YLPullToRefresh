@@ -1,0 +1,22 @@
+{
+  "name": "YLPullToRefresh",
+  "version": "0.1.0",
+  "summary": "A short description of YLPullToRefresh.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lifuqing/YLPullToRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lifuqing": "lifuqing001@ke.com"
+  },
+  "source": {
+    "git": "https://github.com/lifuqing/YLPullToRefresh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YLPullToRefresh/Classes/**/*"
+}
